@@ -1,0 +1,93 @@
+<wpml-config>
+    <custom-fields>
+        <custom-field action="translate">page_metaboxes</custom-field>
+        <custom-field action="translate">portfolio_metaboxes</custom-field>
+        <custom-field action="translate">post_metas</custom-field>
+    </custom-fields>
+    <admin-texts>
+        <key name="appland_opt">
+
+            <key name="blog_page" />
+            <key name="blog_title" />
+            <key name="blog_subtitle" />
+            <key name="blog_header_bg" />
+            <key name="blog_meta_opt" />
+            <key name="blog_excerpt" />
+            <key name="is_post_meta" />
+            <key name="is_post_author" />
+            <key name="is_post_date" />
+            <key name="is_post_cat" />
+            <key name="blog_single_opt" />
+            <key name="is_social_share" />
+            <key name="is_post_tag" />
+            <key name="is_related_posts" />
+            <key name="related_posts_title" />
+            <key name="related_posts_count" />
+
+            <key name="color" />
+            <key name="accent_color_type" />
+            <key name="accent_gradient" />
+            <key name="gradient_solid_color" />
+            <key name="accent_solid_color" />
+
+            <key name="appland_footer" />
+            <key name="copyright_txt" />
+            <key name="appland_footer_font_colors" />
+            <key name="footer_top_font_color" />
+            <key name="footer_btm_font_color" />
+            <key name="widget_title_color" />
+            <key name="footer_link" />
+            <key name="appland_footer_background" />
+            <key name="footer_bg_image" />
+            <key name="footer_top_bg_color" />
+            <key name="footer_btm_bg_color" />
+
+            <key name="general_opt" />
+            <key name="is_preloader" />
+            <key name="preloader_image" />
+
+            <key name="header_sec" />
+            <key name="logo_opt" />
+            <key name="main_logo" />
+            <key name="sticky_logo" />
+            <key name="retina_logo" />
+            <key name="logo_padding" />
+
+            <key name="navbar_styling" />
+            <key name="menu_font_color" />
+            <key name="menu_bg_color" />
+            <key name="menu_item_margin" />
+            <key name="sticky_menu_start" />
+            <key name="sticky_menu_font_color" />
+            <key name="sticky_menu_bg_color" />
+            <key name="sticky_menu_end" />
+            <key name="nav_layout" />
+            <key name="menu_action_btn_opt" />
+            <key name="menu_btn_label" />
+            <key name="menu_btn_url" />
+            <key name="menu_btn_font_color" />
+            <key name="menu_btn_bg_color" />
+            <key name="menu_btn_border" />
+            <key name="menu_btn_size" />
+            <key name="menu_btn_padding" />
+            <key name="title_bar_opt" />
+            <key name="title_bar_overlay_color" />
+            <key name="title_bar_padding" />
+
+            <key name="opt_social_links" />
+            <key name="facebook" />
+            <key name="twitter" />
+            <key name="googleplus" />
+            <key name="linkedin" />
+            <key name="dribbble" />
+            <key name="youtube" />
+
+            <key name="appland_typo_opt" />
+            <key name="body_typo" />
+            <key name="sec_title_typo" />
+            <key name="sec_subtitle_typo" />
+        </key>
+    </admin-texts>
+</wpml-config>
+
+

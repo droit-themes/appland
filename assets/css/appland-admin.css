@@ -1,0 +1,10 @@
+.cs-field-typography_advanced .cs-field-color_picker {
+    position: relative;
+    top: 0 !important;
+}
+
+.redux-notice,
+.redux-dev-mode-notice-container {
+    display: none !important;
+}
+

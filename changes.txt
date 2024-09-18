@@ -1,0 +1,221 @@
+----- 2.9.5 (24 November 2022) -----
+Updated : WooCommerce outdated template files
+Fixed   : Deprecated function updated
+Fixed   : Compatible with latest WordPress version (6.1.1.x)
+Fixed   : Compatible with latest WooCommerce version (7.1.0) 
+Updated : appland-core file updated
+
+
+----- 2.9.4 (23 December 2020) -----
+Fixed: PHP Warning (Single Product Page)
+
+
+----- 2.9.3 (15 November 2019) -----
+Tweaked: Product details page style improved
+Tweaked: Typography Settings
+Updated: WooCommerce outdated template files
+Updated: WPBakery Page Builder (Visual Composer) plugin updated to 6.0.5 version
+
+----- 2.9.2 (30 May 2019) -----
+Tweaked: Gutenberg Compatibility
+Tweaked: Some Element styles
+Updated: WpBakery and Appland Core 2.9.2
+
+----- 2.9.1 (1 April 2019) -----
+Fixed: WooCommerce product input quantity icon
+Tweaked: Menu max width set for mobile view
+Tweaked: Unnecessary admin notices removed
+Tweaked: Typography Settings
+
+----- 2.9 (10 March 2019) -----
+New: 404 Error Page settings under Theme Settings page
+Tweaked: Menu Action Button show on all devices
+Tweaked: Hero Section's (style 10) featured image show on mobile option added
+
+----- 2.8.1 (21 January 2019) -----
+Fixed: Some Gutenberg styling issues
+
+----- 2.8 (26 December 2018) -----
+Updated: Some demo contents
+Updated: WPBakery page builder ( Compatibility with WordPress 5.0 )
+Fixed: FAQ plus/minus icon changing based on the collapsing stats
+Fixed: Video support on Single Video Section's Column Switch
+
+----- 2.7 (02 December 2018) -----
+Tweaked: Single Video Section (from this version you can display youtube, self hosted video.)
+Tweaked: Pricing Table with Tab
+Tweaked: Screen Features Sections
+Tweaked: Shop Sidebar Widgets style
+Tweaked: WooCommerce Checkout page design
+Tweaked: WooCommerce Cart page design
+Fixed: WooCommerce outdated template files
+Fixed: Title Section responsive issue
+Fixed: Shop Page's Title and Subtitle Settings
+Fixed: Product Category Thumbnail Image on Title-bar Background
+New: Text Logo options added on the Theme Settings > Header Settings > Logo
+New: Post Category Title-bar Background Image Upload Field
+Updated: Demo Eight contents
+
+----- 2.6 (20 November 2018) -----
+Tweaked: Testimonial Shortcode
+Tweaked: Footer Color Change Options
+Tweaked: Typography Options
+Tweaked: Colors Options
+Tweaked: 404 Error Page
+Updated: Demo 05 (contact page added)
+
+----- 2.5.1 (24 October 2018) -----
+Updated: Some demo contents
+Tweaked: Team Shortcode (linkedin, instagram field added)
+Tweaked: Line breaking possibilities enabled for contact information boxes
+
+----- 2.5 (22 October 2018) -----
+New: Three New landing demos added
+Tweaked: Some shortcode settings
+Tweaked: Some element's style
+
+----- 2.4 (18 October 2018) -----
+New: Two Saas homepage added
+Tweaked: Button Shortcode
+Tweaked: Hero Section
+Tweaked: Some design elements
+Tweaked: Page Metabox options
+Tweaked: Dynamic global color changing option
+Tweaked: WooCommerce quantity input field arrow top and arrow down icon
+Fixed: Navbar Layout Settings
+Fixed: WooCommerce single page
+Updated: Multi-page demo contents
+
+----- 2.3 (14 October 2018) -----
+New: Demo 09 Added
+New: Hero Style Nine Added
+New: Post Title-bar Settings
+Tweaked: Dynamic Color Change Options
+Fixed: Multipage demo version import
+Fixed: WooCommerce outdated template issue
+Fixed: Title shortcode's bottom line appearance
+
+----- 2.2 (10 October 2018) -----
+Tweaked: Product archive page (Title align option added to the the Theme Settings)
+Fixed: Product Single page's banner dynamic options
+Updated: Multipage demo contents
+
+----- 2.1 (09 October 2018) -----
+New: WooCommerce support enabled (Shop, Cart, Checkout Product Single pages added)
+
+----- 2.0.1 (06 October 2018) ------
+Tweaked: Hero Section
+
+----- 2.0 (06 October 2018) ------
+Fixed: The page margin meta settings
+Fixed: Hero Section's issues
+Tweaked: Some shrotcode settings
+Tweaked: Design elements
+Added: Blog masonry and blog grid page
+Updated: Demo contents
+
+----- 1.9 (04 October 2018) ------
+Fixed: Dynamic Color Change Option
+New: Seven new demo added
+Updated: Demo contents in demo import options
+
+----- 1.8.9 (04 October 2018) ------
+Fixed: Comment reply form
+
+----- 1.8.8 (04 October 2018) ------
+Tweaked: All JavaScript is written with “use strict” mode on
+Fixed: Used the correct escaping function for dynamic string sanitization
+
+----- 1.8.7 (04 October 2018) ------
+Tweaked: String translation
+Fixed: Post padding issue
+
+----- 1.8.6 (03 October 2018) ------
+Tweaked: Comment form design
+Tweaked: Search form design
+Tweaked: Recent post widget
+
+----- 1.8.5 (02 October 2018) ------
+Tweaked: Recent Comments widget redesign
+Tweaked: Comment form redesigned
+Tweaked: Post tag and post categories redesigned
+Tweaked: Design accent changed to round from circle
+
+----- 1.8.4.1 (24 August 2018) ------
+Fixed: Retina logo support issue
+
+----- 1.8.4 (23 August 2018) ------
+Fixed: Some responsive
+Tweaked: Some design
+Tweaked: Some styling issues
+
+----- 1.8.3 (22 August 2018) ------
+Tweaked: Comment section style and some other style
+New: Retina display support for logo
+
+----- 1.8 (16 August 2018) ------
+Tweaked: Overall design has improved (specially the blog pages design)
+Tweaked: Theme Options
+Tweaked: Responsive view
+Tweaked: Unit testing
+
+----- 1.7.1 (16 August 2018) ------
+Fixed: Features section style three image icon support issue
+
+------ 1.7 (18 July 2018) ------
+Fixed: FAQ accordion if multiple section in a page
+Fixed: Comment form and comment list
+
+------ 1.6.2 (16 July 2018) ------
+Fixed : Screenshot carousel (Style 5 lightbox issue)
+
+------ 1.6.1 (10 July 2018) ------
+Fixed : Gradient text color issue in Internet Explorer browser
+Updated : Visual Composer v5.5.1
+
+------ 1.6 (2 July 2018) ------
+Fixed : Themify icon and Linear icon picker problem in visual composer icon field with the Appland Child Theme
+Fixed : Dropdown menu appear on hover
+Fixed : Screen Features section (style 02)
+
+------ 1.5.1 (3 June 2018) ------
+Fixed : Pricing Table button
+Fixed : Accent color changing on Pricing Table
+New: Logo custom dimensions in Theme Settings > Header > Logo
+
+------ 1.5 (30 May 2018) ------
+New : Multipage Demo
+New : Dropdown Menu Added
+New : Contact page template with contact 7 integration
+New : Full-width page template
+Fixed : Image uploading option added in pricing table
+Fixed : Dynamic Color For Faq Page and Blog and Blog Single Sections
+Fixed : Sub Title and Section Top/Bottom Dynamic option added in page metabox
+Fixed : Testimonial shortcode (style two)
+
+------ 1.4 (20 May 2018) ------
+Fixed: Hero section buttons
+Fixed: Appland-core Plugin's translation issues
+Fixed: Subscribe form placeholder text change
+
+------ 1.3 (14 May 2018) ------
+Improved: Youtube video support added to Hero section's (style 7) background
+New: RTL support.
+New: WPML (multilingual plugin) support
+Fixed: Some demo import errors
+
+------ 1.2 (8 May 2018) ------
+Fixed: Blog Grid Layout Page
+Fixed: Hero (style seven) shortcode
+Fixed: Screen Features (style five) shortcode
+Fixed: Video section popup play (on home 7)
+Fixed: Download section shortcode's featured image position from bottom
+Improved: Forced developer mode enabled message hide from theme option
+Improved: Some css issues
+
+----- 1.1 (05 May 2018) ------
+Added: Added 7 more demo in one click demo installer
+Fixed: Some responsive issues
+Fixed: Visual composer shortcode iconpicker in Appland Core plugin
+Improved: Color Settings
+Improved: Some shortcode options
