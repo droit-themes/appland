@@ -10,10 +10,9 @@
  * happen. When this occurs the version of the template file will be bumped and
  * the readme will list any important changes.
  *
- * @see 	    https://docs.woocommerce.com/document/template-structure/
- * @author 		WooThemes
- * @package 	WooCommerce/Templates
- * @version     3.3.0
+ * @see         https://woocommerce.com/document/template-structure/
+ * @package     WooCommerce\Templates
+ * @version     9.0.0
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
@@ -32,3 +31,8 @@ echo apply_filters( 'woocommerce_loop_add_to_cart_link', // WPCS: XSS ok.
 		'<i class="icon_bag_alt"></i> '.$product->add_to_cart_text()
 	),
 $product, $args );
+
+?>
+<span id="woocommerce_loop_add_to_cart_link_describedby_<?php echo esc_attr( $product->get_id() ); ?>" class="screen-reader-text">
+	<?php echo esc_html( $args['aria-describedby_text'] ); ?>
+</span>

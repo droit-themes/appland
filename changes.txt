@@ -1,3 +1,13 @@
+
+----- 2.9.7 (19 Septembar 2024) -----
+Updated : WooCommerce outdated template files
+Updated : appland-core file updated
+
+----- 2.9.6 (23 March 2023) -----
+Updated : WooCommerce outdated template files
+Fixed   : Deprecated function updated
+Updated : appland-core file updated
+
 ----- 2.9.5 (24 November 2022) -----
 Updated : WooCommerce outdated template files
 Fixed   : Deprecated function updated
