@@ -1,3 +1,6 @@
+----- 2.9.8 (21 March 2025) -----
+Updated : Deprecated function updated
+Updated : Compatible with latest WordPress version
 
 ----- 2.9.7 (19 Septembar 2024) -----
 Updated : WooCommerce outdated template files
